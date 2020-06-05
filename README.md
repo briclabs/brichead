@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## BricHead
 
-You can use the [editor on GitHub](https://github.com/briclabs/brichead/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This site is part blog, part database, part social media, and part codebase. It is meant to allow collaboratively improving a "post" (a logical argument, proverb, or similar) so that it can become more perfect in it expression of its intended meaning, within the context of its intended purpose.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contributions
 
-### Markdown
+As this site is hosted via GitHub Pages, contributions can be made through pull requests, as if the written human words here were code. This allows comparison, discussion, and so forth to be organized and archived within the database that is this site's repository.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Disclaimer
 
-```markdown
-Syntax highlighted code block
+This site contains collaborative content, and, content that is not expected to be perfect or accurate versus the intent of any of its authors (original or subsequent). Therefore any views, ideas, and so forth that are presented here should always be considered an unfinished product, and therefore flawed.
 
-# Header 1
-## Header 2
-### Header 3
+## Motivation
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/briclabs/brichead/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Bric has spent a lot of time discussing controversial topics with others. Bric's motivation is to better understand others, and to perfect themselves as a person, to the benefit of all other persons, to the best of Bric's abilities. Bric wants to be happy. Bric wants you to be happy. Bric wants everyone to be happy. Understanding others is very difficult sometimes. This methodology is being explored as a potential way to collaboratively perfect expressions in a consensus-driven, organized, efficient, and attributable approach. To that extent, this pursuit, and the fruit it bears, should also always be considered an unfinished product, and therefore flawed.
