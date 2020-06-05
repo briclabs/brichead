@@ -7,7 +7,7 @@ title: Bric's Head
   <ul class="posts">
     {% for post in site.posts %}
       <li>
-        <a href = "{{ post.url }}">{{ post.title }}</a>
+        <a href = "{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       </li>
     {% endfor %}
   </ul>
@@ -18,7 +18,7 @@ title: Bric's Head
     <ul>
       {% for post in category[1] %}
         <li>
-          <a href = "{{ post.url }}">{{ post.title }}</a>
+          <a href = "{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         </li>
       {% endfor %}
     <ul>
