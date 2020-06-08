@@ -12,7 +12,7 @@ title: Bric's Head
     {% endfor %}
   </ul>
   <h2>Posts by Category</h2>
-  <ul class="posts">
+  <div class="posts">
     {% for category in site.categories %}
     <h3>{{ category[0] }}</h3>
     <ul>
@@ -23,3 +23,4 @@ title: Bric's Head
       {% endfor %}
     <ul>
     {% endfor %}
+  </div>
